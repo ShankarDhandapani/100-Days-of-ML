@@ -7,6 +7,7 @@
     * Typecasting
     * Conditional Statement
     * Loops
+
  2. [Day 2](Day002.ipynb)
     * Python Functions
     * Function arguments
@@ -14,3 +15,11 @@
     * Global Variables
     * Installing Modules and Packages with PiP
     * Common errors
+
+ 2. [Day 3](Day003.ipynb)
+    * Writing File
+    * Reading File
+    * Appending File
+    * Classes
+    * Objects
+    * Getting user Input

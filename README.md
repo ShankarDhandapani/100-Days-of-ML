@@ -16,10 +16,17 @@
     * Installing Modules and Packages with PiP
     * Common errors
 
- 2. [Day 3](Day003.ipynb)
+ 3. [Day 3](Day003.ipynb)
     * Writing File
     * Reading File
     * Appending File
     * Classes
     * Objects
     * Getting user Input
+ 4. [Day 4](Day004.ipynb)
+    * Statistics
+    * Creating Modules
+    * List
+    * Multi Dimensional List
+    * List Manipulation
+    * Tuples

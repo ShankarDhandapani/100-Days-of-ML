@@ -30,3 +30,9 @@
     * Multi Dimensional List
     * List Manipulation
     * Tuples
+5. [Day 5](Day005.ipynb)
+    * Multiline Printing
+    * Python Dictionaries
+    * Built-in Functions
+    * Os Modules
+    * Sys Modules

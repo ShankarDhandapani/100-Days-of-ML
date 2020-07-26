@@ -36,9 +36,16 @@
     * Built-in Functions
     * Os Modules
     * Sys Modules
-5. [Day 6](Day006.ipynb)
+6. [Day 6](Day006.ipynb)
     * Reading CSV
     * Try catch Except
     * Urllib
     * Matplotlib Styles
     * Matplotlib Legends
+7. [Day 7](Day007.ipynb)
+    * Regular Expression
+    * Parsing URL with RE and urllib
+    * Matplotlib labels and titles
+    * Matplotlib Scatter plot
+    * Matplotlib Bar chart
+    * Matplotlib Plotting from CSV

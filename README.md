@@ -71,4 +71,4 @@
     * Tkinter - Adding Button
     * Tkinter - Event Handling
     * Tkinter - Menu Bar
-    * Tkinter - Adding image and text
+    * Tkinter - Adding option to menu

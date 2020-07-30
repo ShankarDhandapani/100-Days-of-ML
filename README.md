@@ -72,3 +72,9 @@
     * Tkinter - Event Handling
     * Tkinter - Menu Bar
     * Tkinter - Adding option to menu
+11. [Day 11](Day011.ipynb)
+    * Socket intro
+    * Socket simple port scanner
+    * Threaded port scanner
+    * Socket Binding and listening
+    * Sockets: Client and system

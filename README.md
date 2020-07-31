@@ -78,3 +78,8 @@
     * Threaded port scanner
     * Socket Binding and listening
     * Sockets: Client and system
+12. [Day 12](Day012.ipynb)
+    * Threading module
+    * Cx freeze python to exe
+    * Subprocess module
+    * ftplib FTP transfers Python        

@@ -82,4 +82,12 @@
     * Threading module
     * Cx freeze python to exe
     * Subprocess module
-    * ftplib FTP transfers Python        
+    * ftplib FTP transfers Python
+13. [Day 13](Day013.ipynb)
+    * OOPS Concepts
+    * Class
+    * Object
+    * Method
+    * Inheritance and Types
+    * Abstraction
+    * Encapsulation

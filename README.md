@@ -91,3 +91,9 @@
     * Inheritance and Types
     * Abstraction
     * Encapsulation
+14. [Day014](Day014.py)
+    * Flask
+    * Configuration
+    * Minimal Application
+    * Debugging
+    * Routes

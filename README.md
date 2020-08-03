@@ -97,3 +97,7 @@
     * Minimal Application
     * Debugging
     * Routes
+15. [Day015](Day015.py)
+    * Render Template
+    * Layout
+    * Bootstrap

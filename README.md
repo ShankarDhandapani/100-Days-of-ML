@@ -107,3 +107,6 @@
     * Validators
     * url_for
     * Flash messages
+17. [Day017](Day017.py)
+    * Flask - db
+    * Sqlalchemy

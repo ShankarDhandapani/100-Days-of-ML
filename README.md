@@ -110,3 +110,6 @@
 17. [Day017](Day017.py)
     * Flask - db
     * Sqlalchemy
+18. [Day018](Day018.py)
+    * Converting the files to packages
+    * Integrating them with application

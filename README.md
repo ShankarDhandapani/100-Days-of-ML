@@ -113,3 +113,11 @@
 18. [Day018](Day018.py)
     * Converting the files to packages
     * Integrating them with application
+19. [Day019](Day019.py)
+    * Flask - User authentication
+    * Login Manager
+20. [Day020](Day020.py)
+    * Flask Blog application user information update module
+    * Adding profile picture
+21. [Day021](Day021.py)
+    * Flask Blog - Create, update, Delete post.
